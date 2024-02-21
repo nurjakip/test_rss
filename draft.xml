@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title><![CDATA[Размер обложки подкаста 740х740]]></title>
+        <description><![CDATA[Подкаст о сладкой жизни]]></description>
+        <link>https://dfghjkl.mave.digital</link>
+        <image>
+            <url>https://mavecloud.s3mts.ru/storage/podcasts/bcb86f6e-ad65-4c20-b048-5e8ca0132948/images/a5cd3224-7bb5-4e98-b009-e86fbcfbfaa9.png</url>
+            <title>Люблю жизнь</title>
+            <link>https://dfghjkl.mave.digital</link>
+        </image>
+        <generator>mave podcasts</generator>
+        <lastBuildDate>Wed, 29 Dec 2021 06:10:41 GMT</lastBuildDate>
+        <pubDate>Fri, 26 Nov 2021 08:39:00 GMT</pubDate>
+        <copyright><![CDATA[2021 © mave. Все права защищены.]]></copyright>
+        <language><![CDATA[et]]></language>
+        <itunes:type>episodic</itunes:type>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:author>mave</itunes:author>
+        <itunes:summary>Размер обложки подкаста 740х740</itunes:summary>
+        <itunes:owner>
+            <itunes:name>mave</itunes:name>
+            <itunes:email>zlata-evdokimova.test1@yandex.ru</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://img.freepik.com/premium-vector/vector-layout-of-two-covers-templates-for-square-bifold-brochure-flyer-magazine-cover-design-book-de_45568-2331.jpg?w=740"/>
+        <itunes:category text="Comedy">
+            <itunes:category text="Comedy Interviews"/>
+        </itunes:category>
+        <item>
+            <title><![CDATA[Жизнь как она есть]]></title>
+            <link>https://dfghjkl.mave.digital/ep-1</link>
+            <guid isPermaLink="false">42a5957b-9d79-4d06-a793-176d54712094</guid>
+            <pubDate>Fri, 26 Nov 2021 08:39:00 GMT</pubDate>
+            <enclosure url="https://api.mave.digital/storage/podcasts/bcb86f6e-ad65-4c20-b048-5e8ca0132948/episodes/0734eb1d-14af-4d76-a554-fc0936731ec3.mp3" length="2221805" type="audio/mpeg"/>
+            <itunes:title>Жизнь как она есть</itunes:title>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:duration>138</itunes:duration>
+            <itunes:image href="https://mavecloud.s3mts.ru/storage/podcasts/bcb86f6e-ad65-4c20-b048-5e8ca0132948/images/a5cd3224-7bb5-4e98-b009-e86fbcfbfaa9.png"/>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+    </channel>
+</rss>
